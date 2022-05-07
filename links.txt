@@ -1,3 +1,8 @@
 microsfot developer O365
 https://developer.microsoft.com/en-us/microsoft-365/dev-program
 
+
+publish blazor wasm to azure
+https://www.syncfusion.com/faq/blazor/host-and-deploy/how-do-i-deploy-a-blazor-webassembly-application-to-azure-app-service
+
+
